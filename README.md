@@ -13,5 +13,13 @@ Called Balloon Catcher, and is based on a street fight with shooting balloons in
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) https://a-safarji.itch.io/ballon-catcher
 
 
+
+## Contributing
+
+Fork it (<https://github.com/A-safarji/Game-Canvas-JS.git>)
+
+## Contact
+Created by [A.Safarji](https://github.com/A-safarji) - feel free to contact me!
+
 ## License
 >You can check out the full license [here](https://github.com/A-safarji/Game-Canvas-JS/blob/main/LICENSE)
