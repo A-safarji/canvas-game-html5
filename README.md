@@ -1,0 +1,2 @@
+# Game-Canvas-JS
+Called Balloon Catcher, and is based on street fight with shooting to balloons in the air. The object of the game is to make a man walk around on the street and shoot at balloons that are in the top way. So, the balloons drop water and the player try to avoid the water drop or shoot the balloon to stop it dropping water at you. Also, the player has to move the man and pop off the balloons.
