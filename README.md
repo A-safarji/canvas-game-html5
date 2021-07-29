@@ -10,5 +10,4 @@ Called Balloon Catcher, and is based on a street fight with shooting balloons in
 
 
 ## Try the game online
-
-https://a-safarji.itch.io/ballon-catcher
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) https://a-safarji.itch.io/ballon-catcher
