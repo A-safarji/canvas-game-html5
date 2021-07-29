@@ -1,0 +1,15 @@
+#Canvas {
+    border: 1px solid black;
+    margin: auto;
+    display: block;
+    background-image: url("../images/field-background.gif");
+    background-size: 100% 100%;
+}
+
+body {
+    background-image: url("../images/background.gif");
+    background-repeat: repeat;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+}
