@@ -16,7 +16,7 @@ Called Balloon Catcher, and is based on a street fight with shooting balloons in
 
 ## Contributing
 
-- Fork the Repository [here]https://github.com/A-safarji/Game-Canvas-JS/fork)
+- Fork the Repository [here](https://github.com/A-safarji/Game-Canvas-JS/fork)
 
 ## Contact
 Created by [A.Safarji](https://github.com/A-safarji) - feel free to contact me!
